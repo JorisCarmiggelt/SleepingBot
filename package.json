@@ -1,0 +1,19 @@
+{
+  "name": "alwaysdesigns",
+  "version": "1.0.0",
+  "description": "bot voor AlwaysDesigns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Joris_Carmiggelt",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ms": "^2.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
